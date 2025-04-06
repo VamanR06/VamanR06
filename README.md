@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VamanR06
 - Attending University of Michigan (Go Blue! 🔵)
-- Majoring in CS
+- Majoring in Computer Science
 - 👀 I’m interested in Robotics
 - 📫 Reach me at emailvaman@gmail.com
 - ⚡ Fun fact: Table Tennis is Fun
