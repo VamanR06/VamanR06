@@ -2,7 +2,7 @@
 - Attending University of Michigan (Go Blue! 🔵)
 - Majoring in Computer Science
 - 👀 I’m interested in Robotics
-- 📫 Reach me at emailvaman@gmail.com
+- 📫 Reach me at vaman@umich.edu
 - ⚡ Fun fact: Table Tennis is Fun
 
 <!---
